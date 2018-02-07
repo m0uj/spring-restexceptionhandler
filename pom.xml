@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.spring.restexceptionhandler</groupId>
+    <groupId>com.github.m0uj.spring.restexceptionhandler</groupId>
     <artifactId>spring-restexceptionhandler</artifactId>
     <version>1.0-RELEASE</version>
 

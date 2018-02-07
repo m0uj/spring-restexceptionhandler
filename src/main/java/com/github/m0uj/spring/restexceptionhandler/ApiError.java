@@ -1,4 +1,4 @@
-package com.spring.restexceptionhandler;
+package com.github.m0uj.spring.restexceptionhandler;
 
 import org.springframework.http.HttpStatus;
 
