@@ -1,4 +1,4 @@
-# Spring-Restexceptionhandler
+# Spring-RestExceptionHandler
 
 [![Build Status](https://travis-ci.org/m0uj/spring-restexceptionhandler.svg?branch=master)](https://travis-ci.org/m0uj/spring-restexceptionhandler)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.m0uj/spring-restexceptionhandler/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.m0uj/spring-restexceptionhandler)
